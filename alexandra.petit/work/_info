@@ -578,6 +578,7 @@ R9
 !s100 CVVjXm1R9LV5B01d1dUY21
 Etraitement_tb
 R1
+R4
 Z71 8TRAITEMENT_tb.vhd
 Z72 FTRAITEMENT_tb.vhd
 l0
@@ -639,6 +640,7 @@ R9
 !s100 88d_Fh4n7mM3WzW[1Y4533
 Eunite_traitement_tb
 R1
+R4
 Z76 8unite_de_traitement_tb.vhd
 Z77 Funite_de_traitement_tb.vhd
 l0
